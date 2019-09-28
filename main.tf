@@ -6,7 +6,7 @@ terraform {
     organization = "curso-terraform-ifrazzon"
 
     workspaces {
-      name = "curso-terraform-ifrazzon"
+      name = "curso-terraform"
     }
   }
 }
